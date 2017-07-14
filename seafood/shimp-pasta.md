@@ -1,6 +1,8 @@
 Shimp Pasta
 ===========
 
+> You can basically use any seafood, but Gulf shrimp are cheap.
+
 Pasta
 -----
 
@@ -20,14 +22,14 @@ Sauce
 
 Without taking them out of the can, drain well, and gently pulse with an immerson blender until there are no large chunks of tomato remaining:
 
-- 28 ounce can whole peeled tomatoes, drained
+- 14.5 ounce can whole peeled tomatoes, drained
 
 In a small bowl, season lightly:
 
-- 8 ounces shrimp, peeled & deveined
+- 12 ounces shrimp, peeled & deveined
 - Kosher salt
 
-Meanwhile, in a medium sauce pan over medium heat, cook until garlic is fragrant (~30 seconds):
+Meanwhile, in the same stock pot used for pasta, cook garlic over medium heat until fragrant (~30 seconds):
 
 - 5 teaspoons extra virgin olive oil
 - 3 garlic cloves, minced
@@ -48,7 +50,11 @@ Remove from heat, and add:
 
 - Shrimp
 - Pasta
-- 2 tablspoons chopped fresh basil
+- 2 tablespoons chopped fresh basil
 - Kosher salt & freshly ground black pepper to taste
 
 Adjust consistency with reserved pasta cooking liquid as needed.
+
+Garnish with:
+
+- Grated Parmesan

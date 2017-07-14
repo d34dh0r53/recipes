@@ -1,20 +1,34 @@
 Pancakes
 ========
 
-Preheat griddle over medium low heat (electric stove on 3). Grease with oil before each batch.
-
-Mix wet ingredients:
-
-- 1 large egg, gently beaten
-- 1/2 cup whole milk
-- 2 tablespoons butter, melted
-- 1/2 teaspoon vanilla extract (optional)
+Preheat griddle over medium low heat (electric stove on 3). Grease with canola oil before each batch.
 
 Mix dry ingredients:
 
-- 1/2 cup flour, sifted
-- 2 tablespoons sugar
-- 1 teaspoon baking powder
-- 1/8 teaspoon kosher salt
+- 1 cup **flour**, sifted
+- 1.5 tablespoons **sugar**
+- 3/4 teaspoons **baking powder**
+- 3/4 teaspoons **baking soda**
+- 3/4 teaspoons kosher salt
 
-Mix wet ingredients into dry, until just combined.
+In a separate bowl, mix wet ingredentients:
+
+- 1 large **egg**, gently beaten (do not introduce air)
+- 1 cup **whole milk**
+- 2 tablespoons **butter**, melted
+- 1 tablespoon **lemon** juice (or white vinegar)
+- 1 teaspoon **vanilla extract**
+
+Optionally, add any additional ingredients to the wet, such as:
+
+- Fruit (blueberries, strawberries, apples, etc)
+- Chocolate chips
+- Nuts (pecans)
+
+Make a well in the center of the dry ingredients. Pour in the wet ingredentients and slowly incorporate together until just combined (lumps are desirable).
+
+Serve with:
+
+- **Maple syrup**
+- Melted **butter**
+- A salty **protein**

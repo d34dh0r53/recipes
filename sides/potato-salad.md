@@ -1,38 +1,45 @@
 Potato salad
 ============
 
-Potatoes
---------
+Fancy version
+-------------
 
-Place the potatoes and 2 tablespoons of salt in a large pot of water. Bring the water to a boil, then lower the heat and simmer for 10 to 15 minutes, until the potatoes are barely tender when pierced with a knife.
+Place the potatoes and salt in a large pot of water. Bring the water to a boil, then lower the heat and simmer for 10 to 15 minutes, until the potatoes are barely tender when pierced with a knife.
 
-- 3 pounds small white potatoes
-- 2 tablespoons Kosher salt
+- 1 pound small white potatoes
+- 2 teaspoons Kosher salt
 
 Drain the potatoes in a colander, then place the colander with the potatoes over the empty pot and cover with a clean, dry kitchen towel. Allow the potatoes to steam for 15 to 20 minutes.
 
-Dressing
---------
+Meanwhile, in a medium bowl, combine:
 
-Meanwhile, in a small bowl, whisk together and set aside:
-
-- 220 grams (~1 cup) mayonnaise
-- 60 grams (~1/4 cup) buttermilk
-- 2 tablespoons Colman's mustard powder
-- 6 grams (1/2 cup) fresh dill, chopped
+- 70 grams (~1/3 cup) mayonnaise
+- 15 grams (~1 tablespoon) buttermilk
+- 1 rib celery, chopped
+- 3 tablespoons red onion, chopped
+- 2 grams (3 tablespoons) fresh dill, chopped (or 2 tablespoons dill pickles, chopped)
+- 2 teaspoons Colman's mustard powder
+- 2 grams (~1 teaspoon) freshly ground black pepper
 - 1 teaspoon Kosher salt
-- 2 grams (~1 teaspoon) freshly ground black pepper
 
-Marinate
---------
+When the potatoes are cool enough to handle, cut them down to bite size and add them to the bowl. Toss well, cover, and refrigerate for a few hours to allow the flavors to blend.
 
-When the potatoes are cool enough to handle, cut them down to bite size and place them in a large bowl. While the potatoes are still warm, pour enough dressing over them to moisten. Add:
+Simple version
+--------------
 
-- 2 ribs (~1/2 cup) chopped celery
-- 1/2 cup chopped red onion
-- 2 teaspoon Kosher salt
-- 2 grams (~1 teaspoon) freshly ground black pepper
+Boil until tender:
 
-Toss well, cover, and refrigerate for a few hours to allow the flavors to blend.
+- 1 pound russet potatoes, peeled and cut into 1/2 dice
 
-Serve cold or at room temperature.
+Drain, transfer to a bowl, and let cool.
+
+In a small bowl, combine:
+
+- 1/3 cup mayo
+- 3 tablespoons yellow mustard
+- 1/4 cup chopped dill pickles
+- 1 teaspoon pickle juice
+- 1 teaspoon coarse black pepper
+- 1/3 teaspoon kosher salt
+
+Combine potatoes with dressing. Cover and refrigerate for up to 4 days. Serve cold.
